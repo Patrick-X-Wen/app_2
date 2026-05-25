@@ -1,1 +1,1 @@
-# app_2
+# Multi-stage Dockfile
